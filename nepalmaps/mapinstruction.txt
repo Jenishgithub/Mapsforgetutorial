@@ -1,0 +1,2 @@
+- Paste the map file inside phone memory.
+- Don't paste it inside any folder.
